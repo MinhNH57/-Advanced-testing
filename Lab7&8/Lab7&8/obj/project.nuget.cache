@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/ksh5kA/v1QoI+xp27Zhhyv4b0AxaAA0ojKUk0SNUaAJSod8TQHN4kpjlz9sHmipGWKfgZQDir1bwk3qzxGxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Kiểm thử nâng cao\\Lab7&8\\Lab7&8\\Lab7&8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

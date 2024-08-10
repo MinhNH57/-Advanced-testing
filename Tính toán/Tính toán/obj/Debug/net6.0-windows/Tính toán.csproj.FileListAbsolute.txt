@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\bin\Debug\net6.0-windows\Tính toán.exe
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\bin\Debug\net6.0-windows\Tính toán.deps.json
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\bin\Debug\net6.0-windows\Tính toán.runtimeconfig.json
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\bin\Debug\net6.0-windows\Tính toán.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\bin\Debug\net6.0-windows\Tính toán.pdb
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính_toán.Form1.resources
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\refint\Tính toán.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.pdb
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\Tính toán.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Tính toán\Tính toán\obj\Debug\net6.0-windows\ref\Tính toán.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2m6XGJeI/QJjwLRvNQ9uUDNP+7cSKe7nUJ77X/DPOY95icuDPcXTY/I/AtIwVLuHF1oTycyypQyFW3Sa+m2CXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Kiểm thử nâng cao\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

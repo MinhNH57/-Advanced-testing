@@ -1,0 +1,48 @@
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\Lab08.exe
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\Lab08.deps.json
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\Lab08.runtimeconfig.json
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\Lab08.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\Lab08.pdb
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\bin\Debug\net6.0\nunit.framework.legacy.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.CopyComplete
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\refint\Lab08.dll
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.pdb
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\Lab08.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Lab08\Lab08\obj\Debug\net6.0\ref\Lab08.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\Lab08.exe
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\Lab08.deps.json
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\Lab08.runtimeconfig.json
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\Lab08.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\Lab08.pdb
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\bin\Debug\net6.0\nunit.framework.legacy.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.CopyComplete
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\refint\Lab08.dll
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.pdb
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\Lab08.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Kiểm thử nâng cao\Lab08\Lab08\obj\Debug\net6.0\ref\Lab08.dll

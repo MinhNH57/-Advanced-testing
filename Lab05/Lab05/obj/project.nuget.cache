@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaWeffUOYA9ET3dzQzkOWB5/dctGE/fwWE1MaH4Jr0czOXSKejuEDZ/Lsa9+MV607sTfciEHikRJ4kZpE0KN6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Lab05\\Lab05\\Lab05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
